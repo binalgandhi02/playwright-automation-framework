@@ -1,0 +1,23 @@
+{
+  "name": "playwright-automation-framework",
+  "version": "1.0.0",
+  "description": "Modern Test Automation Framework using Playwright, API Testing, Database Validation and GitHub Actions",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binalgandhi02/playwright-automation-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/binalgandhi02/playwright-automation-framework/issues"
+  },
+  "homepage": "https://github.com/binalgandhi02/playwright-automation-framework#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.60.0",
+    "@types/node": "^25.9.3"
+  }
+}
